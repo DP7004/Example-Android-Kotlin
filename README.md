@@ -7,7 +7,7 @@ This example showcases running Ready Player Me avatar creator in a native Androi
 ---
 
 ## About Ready Player Me
-[Ready Player Me](https://readyplayer.me/developers) is a cross-app avatar platform for the metaverse used by 1,000+ companies.
+[Ready Player Me](https://readyplayer.me/developers) is a cross-game avatar platform for Unity, Unreal Engine, and all web-based stacks.
 
 ### Getting Started
 [Read the documentation](https://docs.readyplayer.me) to get started with integrating Ready Player Me or explore the examples.
